@@ -5,7 +5,7 @@
 
     JAVA SE development KIt
 
-    
+
 
 2. compile and run java program 
 
@@ -16,4 +16,4 @@ java hello  //run
 
 3. jshell  
 
-![jshell](./doc/images/jshell.png)
+![jshell](https://media.geeksforgeeks.org/wp-content/uploads/20200206213707/Screenshot-5815.png)
